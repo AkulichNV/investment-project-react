@@ -1,9 +1,4 @@
-
-
 export default function UserInput({ onChangeInput, userInput }) {
-    
-
-    
 
     return (
         <section id="user-input">
